@@ -51,6 +51,10 @@
     left: 10px
 }
 
+.apaga{
+    display: none;
+}
+
 /* Versão mobile */
 
 @media (max-width: 767px){
